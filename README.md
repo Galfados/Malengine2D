@@ -1,4 +1,4 @@
 Malengine2D
 ===========
 
-My 2D Engine
+My 2D Engine in LWJGL
